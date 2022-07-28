@@ -422,7 +422,7 @@ a{text-decoration: none; color:#000;}
     .act-back>div>ul>li{margin:3% auto; text-align: center; width:50%;}
     .act-back>div>ul>li img{width:100%; }
     .act-back>div>ul>li:hover a{opacity: 0.8;}
-    .act-back>div>ul>li>a{color:#f9f9f9; opacity: 0.4; transition: 0.3s;}
+    .act-back>div>ul>li>a{color:#f9f9f9; opacity: 0.4; transition: 0.3s; cursor:pointer;}
     .act-back>div>ul>li>a.on{opacity: 1;}
 
 
