@@ -1134,7 +1134,7 @@ a{text-decoration: none; color:#000;}
     margin-bottom:2%;}
     footer>div>p{width:80%; margin:0 auto;}
     footer>div>ul{display:flex; justify-content: center; margin:2% auto;}
-    footer>div>ul>li>a{color:#f9f9f9; position:relative; display:block; padding:5px 20px;}
+    footer>div>ul>li>a{color:#f9f9f9; position:relative; display:block; padding:5px 15px;}
     footer>div>ul>li>a:after{
         position:absolute;
         top:7px; left:0;
