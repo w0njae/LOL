@@ -1056,7 +1056,7 @@ a{text-decoration: none; color:#000;}
 
     #legendLOL>div{
         width: 80%;
-        height: 80%;
+        height: 100%;
     margin:0 auto;
     display:flex;
     flex-direction: column;
@@ -1668,7 +1668,7 @@ a{text-decoration: none; color:#000;}
 
     #legendLOL>div{
         width: 80%;
-        height: 80%;
+        height: 100%;
     margin:0 auto;
     display:flex;
     flex-direction: column;
